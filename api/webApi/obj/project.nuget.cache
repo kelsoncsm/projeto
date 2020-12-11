@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "akoq9dG+yxtjYuiun6AxSQ6L8h8dXHKs9oJXfVThC+KYnKcbrdxEDa/whjy+4LLYq4SkNUqsoDh9Hd9a9cVZsw==",
+  "success": true,
+  "projectFilePath": "C:\\projeto\\api\\webApi\\webApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kelso\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
